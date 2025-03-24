@@ -19,5 +19,3 @@ Custo da energia (em R$/kWh).......: 0,62258
 
 Custo estimado: R$85,17
 ```
-
-¹ NeoEnergia, B1-Residencial, Consumo Ativo, sem considerar bandeira tarifária e impostos ([acessado em 04/07/2022](https://www.neoenergiaelektro.com.br/Media/Default/pdf/ELEKTRO_TARIFAS_ENERGIA_ELETRICA_GRUPO_B_27_AGOSTO_2021_REH_N%C2%BA_2.927.pdf)).
